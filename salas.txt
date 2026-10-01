@@ -9,7 +9,8 @@ Status: Disponível
 Sala 04 - Capacidade: 08 pessoas -
 Status: Ocupada
 
-Filtro selecionado: Todas
+Filtro selecionado: Disponíveis
 
 Resultado:
-Toda as salas cadastradas são exibidas. 
+SALA 01 - Disponível 
+SALA 03 - Disponível
