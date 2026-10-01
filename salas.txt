@@ -1,0 +1,15 @@
+SISTEMA DE RESERVA DE SALAS
+
+SALA 01 - Capacidade: 10 pessoas - 
+Status: Disponível
+Sala 02 - Capacidade: 06 pessoas - 
+Status: Ocupada
+Sala 03 - Capacidade: 15 pessoas -
+Status: Disponível 
+Sala 04 - Capacidade: 08 pessoas -
+Status: Ocupada
+
+Filtro selecionado: Todas
+
+Resultado:
+Toda as salas cadastradas são exibidas. 
